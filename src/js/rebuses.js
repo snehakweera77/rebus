@@ -289,6 +289,11 @@ const rebuses = [
     hint: 'AKA girl fight'
   },
   {
+    symbols: ['important', '=', 'important'],
+    words: ['equally important'],
+    hint: 'equally significant'
+  },
+  {
     symbols: ['👣', '+', '📝'],
     words: ['footnote'],
     hint: 'Placed at the bottom of a page to describe something referenced in the page'
